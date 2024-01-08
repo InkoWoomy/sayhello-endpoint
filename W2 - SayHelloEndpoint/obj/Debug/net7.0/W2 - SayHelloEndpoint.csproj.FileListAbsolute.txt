@@ -1,0 +1,33 @@
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\appsettings.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\W2 - SayHelloEndpoint.exe
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\W2 - SayHelloEndpoint.deps.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\W2 - SayHelloEndpoint.runtimeconfig.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\W2 - SayHelloEndpoint.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\W2 - SayHelloEndpoint.pdb
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.csproj.AssemblyReference.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.AssemblyInfoInputs.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.AssemblyInfo.cs
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\staticwebassets\msbuild.W2 - SayHelloEndpoint.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\staticwebassets\msbuild.build.W2 - SayHelloEndpoint.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.W2 - SayHelloEndpoint.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.W2 - SayHelloEndpoint.props
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\scopedcss\bundle\W2 - SayHelloEndpoint.styles.css
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.csproj.CopyComplete
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\refint\W2 - SayHelloEndpoint.dll
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.pdb
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\W2 - SayHelloEndpoint.genruntimeconfig.cache
+C:\Users\ASori\Documents\CS 23-24\Level 2\Main - Github Repositories\W2 - SayHelloEndpoint\obj\Debug\net7.0\ref\W2 - SayHelloEndpoint.dll
